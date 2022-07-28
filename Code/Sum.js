@@ -1,7 +1,7 @@
 
 
-const sum = (a,b)=>{
-    return a+b;
+const sum = (a,b,c)=>{
+    return a+b+c;
 }
 
-sum(10,20);
+sum(10,20,30);
